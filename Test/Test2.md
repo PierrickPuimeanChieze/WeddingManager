@@ -1,2 +1,2 @@
 [[]]
-[Read more words!](./TEST.MD)
+[Read more words!](./test.md)
